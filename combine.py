@@ -8,16 +8,17 @@ import sys, time, os
 
 import tamil_extract as TE
 
+import hindi_extract as HE
 
 #command line options
 parser = OptionParser()
 (options, args) = parser.parse_args()
 if (len(args)<1):
-	print "usage: test/train/val/edited"
+	print "usage: test/train/val"
 	sys.exit(2)
 function = args [0]
-if not function in ["test",  "train", "val", "edited"]:
-	print "usage: test/train/val/edited"
+if not function in ["test",  "train", "val"]:
+	print "usage: test/train/val"
 	sys.exit(2)
 
 labels =  ["tamil", "hindi"]
@@ -29,19 +30,26 @@ wordTargetStrings = []
 seqTags = []
 inputs = []
 
-#later
-# inputMeans = array([1054.11664783, 1455.79299719, 0.0196859027344])
-# inputStds = array([413.688579765, 643.506710495, 0.138918565959])
-
 #Here begins the module functional call for each of the respective indic scripts
 
 #Tamil data is  TamData
-TE.main(function, labels, seqDims, seqLengths, targetStrings, wordTargetStrings, seqTags, inputs, True)
+inputtamil = []
+TE.main(function, labels, seqDims, seqLengths, targetStrings, wordTargetStrings, seqTags, inputtamil, True)
 
-#Later
-#inputs = ((array(inputs)-inputMeans)/inputStds).tolist()
+inputMeans = array([3128.0719366, 978.47630676, 0.0165447506061])
+inputStds = array([1647.70825592, 247.932763513, 0.127557915604])
+inputtamil = ((array(inputtamil)-inputMeans)/inputStds).tolist()
+inputs.extend(inputtamil)
 
-#print inputs
+inputhindi = []
+HE.main(function, labels, seqDims, seqLengths, targetStrings, wordTargetStrings, seqTags, inputhindi, True)
+
+inputMeans = array([3464.31656682, 5373.91794672, 0.0315004541232])
+inputStds = array([2047.47960179, 2844.88270614, 0.174665896827])
+inputhindi = ((array(inputhindi)-inputMeans)/inputStds).tolist()
+inputs.extend(inputhindi)
+
+# print inputs
 # print len(labels), labels
 # print labels
 
