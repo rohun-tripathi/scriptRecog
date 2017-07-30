@@ -1,0 +1,419 @@
+ERROR:root:test_Word_strokeRecov
+Index : 0
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 7
+CRITICAL:root:Accuracy : 0.014644351464435146
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 1
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 219
+CRITICAL:root:Accuracy : 0.4581589958158996
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 2
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 257
+CRITICAL:root:Accuracy : 0.5376569037656904
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 3
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 4
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 5
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 19
+CRITICAL:root:Accuracy : 0.0397489539748954
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 6
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 73
+CRITICAL:root:Accuracy : 0.15271966527196654
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 7
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 89
+CRITICAL:root:Accuracy : 0.18619246861924685
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 8
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 9
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 10
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 18
+CRITICAL:root:Accuracy : 0.03765690376569038
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 11
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 69
+CRITICAL:root:Accuracy : 0.14435146443514643
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 12
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 85
+CRITICAL:root:Accuracy : 0.17782426778242677
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 13
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 14
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 15
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 7
+CRITICAL:root:Accuracy : 0.014644351464435146
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 16
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 10
+CRITICAL:root:Accuracy : 0.02092050209205021
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 17
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 8
+CRITICAL:root:Accuracy : 0.016736401673640166
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 18
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 19
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 20
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 9
+CRITICAL:root:Accuracy : 0.01882845188284519
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 21
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 38
+CRITICAL:root:Accuracy : 0.0794979079497908
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 22
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 53
+CRITICAL:root:Accuracy : 0.1108786610878661
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 23
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 24
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 25
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 9
+CRITICAL:root:Accuracy : 0.01882845188284519
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 26
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 38
+CRITICAL:root:Accuracy : 0.0794979079497908
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 27
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 53
+CRITICAL:root:Accuracy : 0.1108786610878661
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 28
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : hindi
+CRITICAL:root:
+Index : 29
+CRITICAL:root:Total : 478
+CRITICAL:root:Correct : 0
+CRITICAL:root:Accuracy : 0.0
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 0
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 454
+CRITICAL:root:Accuracy : 0.9659574468085106
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 1
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 277
+CRITICAL:root:Accuracy : 0.5893617021276596
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 2
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 172
+CRITICAL:root:Accuracy : 0.3659574468085106
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 3
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 410
+CRITICAL:root:Accuracy : 0.8723404255319149
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 4
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 409
+CRITICAL:root:Accuracy : 0.8702127659574468
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 5
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 446
+CRITICAL:root:Accuracy : 0.948936170212766
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 6
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 349
+CRITICAL:root:Accuracy : 0.7425531914893617
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 7
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 277
+CRITICAL:root:Accuracy : 0.5893617021276596
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 8
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 415
+CRITICAL:root:Accuracy : 0.8829787234042553
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 9
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 415
+CRITICAL:root:Accuracy : 0.8829787234042553
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 10
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 445
+CRITICAL:root:Accuracy : 0.9468085106382979
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 11
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 347
+CRITICAL:root:Accuracy : 0.7382978723404255
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 12
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 272
+CRITICAL:root:Accuracy : 0.5787234042553191
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 13
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 413
+CRITICAL:root:Accuracy : 0.8787234042553191
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 14
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 414
+CRITICAL:root:Accuracy : 0.8808510638297873
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 15
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 454
+CRITICAL:root:Accuracy : 0.9659574468085106
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 16
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 437
+CRITICAL:root:Accuracy : 0.9297872340425531
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 17
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 450
+CRITICAL:root:Accuracy : 0.9574468085106383
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 18
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 444
+CRITICAL:root:Accuracy : 0.9446808510638298
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 19
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 444
+CRITICAL:root:Accuracy : 0.9446808510638298
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 20
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 457
+CRITICAL:root:Accuracy : 0.9723404255319149
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 21
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 374
+CRITICAL:root:Accuracy : 0.7957446808510639
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 22
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 318
+CRITICAL:root:Accuracy : 0.676595744680851
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 23
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 416
+CRITICAL:root:Accuracy : 0.8851063829787233
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 24
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 417
+CRITICAL:root:Accuracy : 0.8872340425531915
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 25
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 457
+CRITICAL:root:Accuracy : 0.9723404255319149
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 26
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 374
+CRITICAL:root:Accuracy : 0.7957446808510639
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 27
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 318
+CRITICAL:root:Accuracy : 0.676595744680851
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 28
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 416
+CRITICAL:root:Accuracy : 0.8851063829787233
+CRITICAL:root:
+Language : english
+CRITICAL:root:
+Index : 29
+CRITICAL:root:Total : 470
+CRITICAL:root:Correct : 417
+CRITICAL:root:Accuracy : 0.8872340425531915
+CRITICAL:root:Overall Accuracy : 0.452171726164
